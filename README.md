@@ -1,3 +1,0 @@
-# AwesomeRestService
-# AwesomeRestService
-# RestService
